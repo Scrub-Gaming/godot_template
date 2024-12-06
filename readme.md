@@ -28,7 +28,7 @@ The template includes the following folders:
 
 1. **Download or Clone the Repository**  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/bsuster/godot_template
    cd godot-template
    ```
 
