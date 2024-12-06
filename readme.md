@@ -29,7 +29,7 @@ The template includes the following folders:
 1. **Download or Clone the Repository**  
    ```bash
    git clone <repository_url>
-   cd godot-project-structure-template
+   cd godot-template
    ```
 
 2. **Open in Godot**  
