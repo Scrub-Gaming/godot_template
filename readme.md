@@ -29,7 +29,7 @@ The template includes the following folders:
 1. **Download or Clone the Repository**  
    ```bash
    git clone https://github.com/bsuster/godot_template
-   cd godot-template
+   cd godot_template
    ```
 
 2. **Open in Godot**  
