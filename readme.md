@@ -34,8 +34,17 @@ The template includes the following folders:
 
 2. **Open in Godot**  
    Open the project in Godot by selecting the project folder in the Godot project manager.
+   
 
-3. **Start Building**  
+3. **Rename the project**
+   Update the project name in Project > Project Settings > Config > Name
+
+4. **Update remote url**
+   ```bash
+   git remote set-url origin <NEW_GIT_URL_HERE>
+   ```
+
+5. **Start Building**  
    Use the provided folder structure to organize your assets and scenes as you develop your game.
 
 ## 🛠 Tips for Organization
